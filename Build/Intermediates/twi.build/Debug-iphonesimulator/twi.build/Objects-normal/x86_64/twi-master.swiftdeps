@@ -1,0 +1,6 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.49.6 clang-602.0.49)"
+options: "1375fe2b71fda83a6536f8f696743aad"
+inputs: 
+- "/Users/motoharu/Documents/work/twi/twi/ViewController.swift"
+- "/Users/motoharu/Documents/work/twi/twi/AppDelegate.swift"
+- "/Users/motoharu/Documents/work/twi/twi/Status.swift"
